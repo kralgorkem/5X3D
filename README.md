@@ -4,7 +4,7 @@ Couldn't get the extruder motor and hotend work on reprap ramps1.4
 
 Made a custom start screen.
 
-Even tho hotend doesn't work it shows the temperature at homescreen with a suitable board other than ramps 1.4 it should work but I have no chance to try it unluko.
+Even tho hotend doesn't work it shows the temperature and 5 axes at homescreen with a suitable board other than ramps 1.4 it should work but I have no chance to try it unluko.
 
 Also if you are looking for a slicer here is the one i used: https://github.com/Spiritdude/Slicer4RTN example .gcode's are on 'code' page
 
